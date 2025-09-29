@@ -1,5 +1,9 @@
 # 🖤 Dark Mode Calculator
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![preview](./assets/preview.jpeg)
+
+
 A sleek, modern **dark mode calculator** built with **HTML, CSS, and JavaScript**.  
 Supports arithmetic operations (+, −, ×, ÷), keyboard input, and a stylish UI with glassmorphism effects.
 
